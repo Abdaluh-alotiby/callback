@@ -12,7 +12,7 @@ SMTP_PASSWORD = "jiry jnrr cipm edap"
 TO_EMAIL = "alotibyabdallh@gmail.com"  
 
 
-REDIRECT_URL = "https://maps.app.goo.gl/z7EPhFg8j4WCxb24A?g_st=com.google.maps.preview.copy"  
+REDIRECT_URL = "https://maps.app.goo.gl/1KbWr3dmfjY7SsQB8?g_st=com.google.maps.preview.copy"  
 
 def send_email(user_data):
     try:
